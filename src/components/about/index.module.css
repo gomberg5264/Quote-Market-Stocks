@@ -1,0 +1,35 @@
+.name {
+  margin-bottom: 15px;
+  font-family: "Roboto", serif;
+  font-style: italic;
+  letter-spacing: 2px;
+  color: white;
+}
+
+.profile-pic {
+  margin-bottom: 25px;
+}
+
+.profile-pic img {
+  border-radius: 100vh;
+}
+
+.QnA {
+  width: 40vh;
+  text-align: center;
+  font-size: 11pt;
+  padding: 5px;
+  margin: 5px;
+  line-height: 25px;
+  color: #e2dcdc;
+}
+
+.QnA h6 {
+  font-size: 12pt;
+  font-style: italic;
+  color: white;
+}
+
+.QnA span p {
+  margin-bottom: 5px;
+}

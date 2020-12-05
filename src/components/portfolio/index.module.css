@@ -1,0 +1,45 @@
+.portfolioStock {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0px 20px;
+  margin-bottom: 5px;
+  width: 70%;
+  height: 5vh;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  width: 33.33%;
+}
+
+.title h3 {
+  font-size: 12pt;
+}
+
+.price {
+  width: 33.33%;
+}
+
+.price h4 {
+  font-style: italic;
+}
+
+.lows {
+  width: 33.33%;
+  display: flex;
+  flex-direction: row;
+}
+
+.high {
+  margin-left: 40px;
+  color: green;
+}
+
+.low {
+  margin-left: 40px;
+  color: red;
+}
